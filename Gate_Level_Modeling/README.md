@@ -27,7 +27,7 @@ Each example contains both the DUT and the testbench in a single Verilog source 
 | Full Adder | 1-bit Full Adder |
 | Half Subtractor | 1-bit Half Subtractor |
 | Full Subtractor | 1-bit Full Subtractor |
-| Comparator | 1-bit Comparator |
+| Comparator | 2-bit Comparator |
 | Encoder (4-bit) | Binary Encoder |
 | Decoder (2×4) | Binary Decoder |
 | MUX 4×1 | Multiplexer |

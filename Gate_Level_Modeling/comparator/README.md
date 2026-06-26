@@ -1,7 +1,7 @@
 # Comparator
 
 ## Overview
-Implementation of a 1-bit Comparator using Verilog gate-level modeling.
+Implementation of a 2-bit Comparator using Verilog gate-level modeling.
 
 ## Outputs
 - A > B

@@ -10,10 +10,6 @@ Behavioral modeling describes the functionality of hardware using procedural blo
 - Counters
 - Flip-Flops
 - Flip-Flop Conversions
-- Finite State Machines (FSM)
-- Shift Registers
-- Parameterized FIFO
-- Parameterized RAM
 - BCD Adder
 
 ## Repository Structure
@@ -25,10 +21,6 @@ Behavioral_Modeling
 ├── counters
 ├── flipflops
 ├── flip_flop_conversions
-├── finite_state_machines
-├── shift_registers
-├── parameterized_fifo
-├── parameterized_ram_memory
 └── bcd_adder
 ```
 
